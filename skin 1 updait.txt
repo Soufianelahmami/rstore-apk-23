@@ -1,0 +1,179 @@
+{ "ADS":
+    {
+  
+       "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":false,
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+        
+        
+      "banner_type":"yandex",
+      "inter_type":"yandex",
+      "native_type":"yandex",
+      "reward_type":"yandex",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
+     
+
+      "banner_yandex":"R-M-2098281-1",
+      "native_yandex":"R-M-2098281-2",
+      "interstitial_yandex":"R-M-2098281-3",
+      "rewarde_yandex":"R-M-2098281-4",
+
+      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3873261259983361/7406322198",
+      "interstitial_admob":"ca-app-pub-3873261259983361/7468803891",
+      "rewarde_admob":"ca-app-pub-3873261259983361/8548206992",
+
+      "applovin_banner":"R-M-DEMO-300x50",
+      "applovin_interstitial":"R-M-DEMO-interstitial",
+      "applovin_reward":"R-M-DEMO-native-i",
+      "applovin_native":"R-M-DEMO-300x50",
+
+      "facebook_banner":"R-M-DEMO-interstitial",
+      "facebook_interstitial":"R-M-DEMO-native-i",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"R-M-DEMO-interstitial"
+
+  
+    },
+    "skins": [
+    {
+      "imageUrl": "https://iili.io/HCGrT7t.jpg",
+      "title": "scp mod for garry mod mod pack 1",
+      "likeNumbers": "28722 LIKES",
+      "commentNumbers": " 37833 COMMENTS",
+      "downloadNumbers": "44014 DOWNLOADS",
+      "description": "download this MOd scp mod for garry mod mod pack 1 For Free enjoy."
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/HCGrukX.jpg",
+      "title": "scp mod for garry mod mod pack 2",
+      "likeNumbers": "23422 LIKES",
+      "commentNumbers": " 3363 COMMENTS",
+      "downloadNumbers": "4434 DOWNLOADS",
+      "description": "download this MOd scp mod for garry mod mod pack 1 For Free enjoy."
+       
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/HCGrI2I.jpg",
+      "title": "scp mod for garry mod mod pack 3",
+      "likeNumbers": "2232 LIKES",
+      "commentNumbers": " 3353 COMMENTS",
+      "downloadNumbers": "07444 DOWNLOADS",
+      "description": "download this MOd scp mod for garry mod mod pack 3 For Free enjoy."
+       
+
+      
+    }
+    ,{
+      "imageUrl": "https://iili.io/HCGrxrN.jpg",
+      "title": "scp mod for garry mod mod pack 4",
+      "likeNumbers": "2522 LIKES",
+      "commentNumbers": " 3373 COMMENTS",
+      "downloadNumbers": "4644 DOWNLOADS",
+      "description": "download this MOd scp mod for garry mod mod pack 4 For Free enjoy."
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://iili.io/HCGr5Is.jpg",
+      "title": "scp mod for garry mod mod pack 5",
+      "likeNumbers": "94222 LIKES",
+      "commentNumbers": " 33073 COMMENTS",
+      "downloadNumbers": "447114 DOWNLOADS",
+      "description": "download this MOd scp mod for garry mod mod pack 5 For Free enjoy."
+       
+    },
+    {
+      "imageUrl": "https://iili.io/HCGrYQf.jpg",
+      "title": "scp mod for garry mod mod pack 6",
+      "likeNumbers": "21322 LIKES",
+      "commentNumbers": " 36833 COMMENTS",
+      "downloadNumbers": "44054 DOWNLOADS",
+      "description": "download this MOd scp mod for garry mod mod pack 6 For Free enjoy."
+     
+    },
+    {
+      "imageUrl": "https://iili.io/HCGrcB4.jpg",
+      "title": "scp mod for garry mod mod pack 7",
+      "likeNumbers": "2202 LIKES",
+      "commentNumbers": " 33783 COMMENTS",
+      "downloadNumbers": "43744 DOWNLOADS",
+      "description": "download this MOd scp mod for garry mod mod pack 7 For Free enjoy."
+       
+    }
+  ], "Apps": [
+    {
+      
+     "title": "Best GARRY S MOD Apk ",
+      "image": "https://play-lh.googleusercontent.com/gTxjK261DpziVt2qwP4ddUq9NrNwWLuLuc2L6cpqWfH7hk6tFaoT1DZ0-X3rP37kqmd6=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.garryapk.mobileapk"
+
+      
+    },
+    { 
+        "title": "last GARRY S MOD  Mobile Game  ",
+      "image": "https://play-lh.googleusercontent.com/gTxjK261DpziVt2qwP4ddUq9NrNwWLuLuc2L6cpqWfH7hk6tFaoT1DZ0-X3rP37kqmd6=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.garryapk.mobileapk"
+
+
+      
+    },
+    {
+      "title": "GARRY S MOD  Mobile Game  ",
+      "image": "https://play-lh.googleusercontent.com/gTxjK261DpziVt2qwP4ddUq9NrNwWLuLuc2L6cpqWfH7hk6tFaoT1DZ0-X3rP37kqmd6=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.garryapk.mobileapk"
+
+      
+    }
+    ,{
+       
+      "title": "GMOD APK 2023",
+      "image": "https://play-lh.googleusercontent.com/5lNuJTu0CVBemO1iG1ACN95wMwJDpL2SiYYNSH2AX4gBwLp-PX1QkV1vXycJrHMBGags=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.garryapk.mobileapk"
+
+
+      
+    },
+    {
+       
+       "title": "GARRY S MOD  Mobile Game  ",
+      "image": "https://play-lh.googleusercontent.com/gTxjK261DpziVt2qwP4ddUq9NrNwWLuLuc2L6cpqWfH7hk6tFaoT1DZ0-X3rP37kqmd6=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.garryapk.mobileapk"
+
+    },
+    {
+       
+      "title": "GARRY S MOD Apk Mobile ",
+      "image": "https://play-lh.googleusercontent.com/gTxjK261DpziVt2qwP4ddUq9NrNwWLuLuc2L6cpqWfH7hk6tFaoT1DZ0-X3rP37kqmd6=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.garryapk.mobileapk"
+
+    },
+    {
+      
+       "title": "GARRY S MOD Apk ",
+      "image": "https://play-lh.googleusercontent.com/gTxjK261DpziVt2qwP4ddUq9NrNwWLuLuc2L6cpqWfH7hk6tFaoT1DZ0-X3rP37kqmd6=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.garryapk.mobileapk"
+
+
+    }
+  ]
+ 
+  }
